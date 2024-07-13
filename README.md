@@ -1,10 +1,8 @@
-# yapraktik
-практика Яндекс
+<div align="center">
+  <h1 align="center">практика <img src="https://img.icons8.com/?size=100&id=06a3hKgInBpq&format=png&color=000000" style="width:30px;height:20px;margin: 0;padding: 0; border: 0;outline: 0;">ндекс</h1>
+  <h3>Работа с системой контроля версий Git</h3>
+</div>
 
----
-title: 'GIT-Commands'
-author: 'Serminos'
----
 
 ### НАЧАЛЬНЫЕ УСТАНОВКИ:
 Необходимо выполнить 1 раз при первом запуске GITBash.  
